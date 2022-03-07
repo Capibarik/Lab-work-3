@@ -20,7 +20,7 @@ namespace Задача_3
             }
             while (a > b);
             double ocp = a;
-            Console.WriteLine($"Ответ {ocp}");
+            Console.WriteLine($"A = {a}, B = {b} => Ответ {ocp}");
             Console.ReadKey();
         }
     }
